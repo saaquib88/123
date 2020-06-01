@@ -10,31 +10,31 @@
         <image/>
         <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title/>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_cdltd_loaner_req_lonar_request</name>
-        <order>200</order>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-01 09:54:38</sys_created_on>
+        <sys_created_on>2020-06-01 10:32:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>749b54834ccd10107f4429045a8dc878</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>b9d3e4874ccd10107f4429045a8dc851</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req_lonar_request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">1cd85c034ccd10107f4429045a8dc8ea</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">1cd85c034ccd10107f4429045a8dc8ea</sys_scope>
-        <sys_update_name>sys_app_module_749b54834ccd10107f4429045a8dc878</sys_update_name>
+        <sys_update_name>sys_app_module_b9d3e4874ccd10107f4429045a8dc851</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-01 10:34:31</sys_updated_on>
+        <sys_updated_on>2020-06-01 10:32:22</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
